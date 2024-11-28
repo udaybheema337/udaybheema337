@@ -1,4 +1,4 @@
-# 💫 About Me: #👋 Hey it's uday bheema
+# 💫 About Me:                  👋 Hey it's uday bheema
 
 🔭 I’m currently working on my own project<br>🌱 I’m currently learning javascript, Django and Blockchain<br>💬 Ask me about python, javascript,Front end development<br>⚡ Fun fact :     I🩶🏍️
 
